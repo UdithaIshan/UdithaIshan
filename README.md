@@ -17,17 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <!--## My stats 📊-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=UdithaIshan&style=plastic&color=blueviolet)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> --!>
