@@ -1,7 +1,7 @@
 <!--### Hi!-->
 
-<img align="center" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/4o4A.gif" />
-<img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/4o4A.gif" width="200px"/>
+<img align="center" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
 <br>
 <br>
 
