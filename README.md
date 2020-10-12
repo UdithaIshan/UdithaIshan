@@ -1,7 +1,7 @@
-### Hi!
+<!--### Hi!-->
 
-<img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/4Sno.gif" />
-
+<img align="center" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/4o4A.gif" />
+<img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
 <br>
 <br>
 
