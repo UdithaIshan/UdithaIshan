@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Hii
-- 🔭 I’m currently working on a Music Player 🎶
+- 🔭 I’m currently working on (Sindu Music Player)[https://github.com/UdithaIshan/sindu] 🎶
 <br><br><br>
 
 ![](https://komarev.com/ghpvc/?username=UdithaIshan&style=plastic&color=blueviolet)
