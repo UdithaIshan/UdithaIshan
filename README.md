@@ -1,6 +1,6 @@
 <!--### Hi!-->
 
-<img align="right" alt="GIF" height="200px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/4o4A.gif" width="150px"/>
+
 <img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
 <br>
 <br>
