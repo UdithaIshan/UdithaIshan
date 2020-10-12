@@ -30,5 +30,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<!--
-![](https://komarev.com/ghpvc/?username=UdithaIshan&style=plastic&color=blueviolet) -->
+
+## Hii
+- 🔭 I’m currently working on a Music Player 🎶
+<br><br><br>
+
+![](https://komarev.com/ghpvc/?username=UdithaIshan&style=plastic&color=blueviolet)
