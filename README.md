@@ -1,5 +1,4 @@
-### Helloo 😁✨
-
+<!--### Helloo 😁✨ -->
 
 <img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
 <br>
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<!--## Hii-->
+
 <!--
 - 🔭 I’m currently working on [Sindu Music Player](https://github.com/UdithaIshan/sindu) 🎶 -->
 <br><br><br> 
