@@ -1,6 +1,6 @@
 <!--### Helloo 😁✨ -->
 
-<img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
+<!-- <img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />
 <br>
 <br>
 
