@@ -1,6 +1,8 @@
 ### Helloo 😁✨
 
-<!-- <img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif" />-->
+
+<img align="left" alt="GIF" height="300px" src="https://github.com/UdithaIshan/UdithaIshan/blob/master/assets/giphy.gif">
+
 <br>
 <br>
 
@@ -33,8 +35,9 @@ Here are some ideas to get you started:
 <!--## My stats 📊-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&exclude_repo=Todo-WebApp&layout=compact)](https://github.com/UdithaIshan/github-readme-stats)-->
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/UdithaIshan/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&exclude_repo=Todo-WebApp&layout=compact)](https://github.com/UdithaIshan/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/UdithaIshan/github-readme-stats)
 <!--#### Stats:chart_with_upwards_trend: 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
