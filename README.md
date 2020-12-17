@@ -38,9 +38,6 @@ Python       1 hr 17 mins    ██▒░░░░░░░░░░░░░░
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithaIshan&exclude_repo=Todo-WebApp&layout=compact)](https://github.com/UdithaIshan/github-readme-stats)-->
 
-<!--#### Stats:chart_with_upwards_trend: 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
 <!-- ![](https://komarev.com/ghpvc/?username=UdithaIshan&style=plastic&color=blueviolet) -->
 
 [website]: https://udithaishan.github.io
