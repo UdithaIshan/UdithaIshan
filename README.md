@@ -42,6 +42,6 @@ JavaScript   3 mins          ░░░░░░░░░░░░░░░░░
 
 [website]: https://udithaishan.github.io
 [twitter]: https://twitter.com/Uditha__Ishan
-[linkedin]: https://www.linkedin.com/in/uditha-ishan-01b26b181
+[linkedin]: https://www.linkedin.com/in/udithaishan
 [Facebook]: https://www.facebook.com/IamUditha
 [DEV]: https://dev.to/udithaishan
