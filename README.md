@@ -1,9 +1,11 @@
 ### Helloo 😁✨
 
+<p align="center">
 *I'm Uditha. I'm a person who loves to make open-source projects*
 
 - 🔭 I’m currently working on [🛠 git-quick](https://github.com/UdithaIshan/git-quick)
 - 🌱 I’m currently learning ∞ 🧐
+<p/>
 <br/><br/>
 
 ### Connect with me:
