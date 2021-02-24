@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
 Dart     8 hrs 56 mins   ██████████████████▒░░░░░░   73.77 % 
 Python   2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
