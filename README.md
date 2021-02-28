@@ -23,9 +23,9 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
-Dart   12 mins         █████████████████████████   99.97 % 
+
 ```
 <!--END_SECTION:waka-->
 
