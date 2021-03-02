@@ -23,9 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
