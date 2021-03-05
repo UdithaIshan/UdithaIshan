@@ -23,7 +23,10 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 February, 2021 - 04 March, 2021
+
+Dart   15 mins         █████████████████████▒░░░   85.74 % 
+YAML   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 ```
 <!--END_SECTION:waka-->
 
