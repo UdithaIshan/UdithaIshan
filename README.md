@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 TypeScript   4 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.05 % 
 HTML         1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
