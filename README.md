@@ -13,8 +13,8 @@
 [<img align="left" alt="UdithaIshan | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][Stack Overflow]
 [<img align="left" alt="UdithaIshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="UdithaIshan | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/dev-dot-to.svg" />][DEV]
-[<img align="left" alt="UdithaIshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="UdithaIshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
+<!-- [<img align="left" alt="UdithaIshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="UdithaIshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook] -->
 <br/><br/>
 
 ![Uditha's github stats](https://github-readme-stats.vercel.app/api?username=UdithaIshan&show_icons=true&theme=dracula)<br/>
@@ -44,7 +44,7 @@ JSON         4 mins          ░░░░░░░░░░░░░░░░░
 
 [website]: https://udithaishan.github.io
 [Stack Overflow]: https://stackoverflow.com/users/15134345
-[twitter]: https://twitter.com/Uditha__Ishan
+<!-- [twitter]: https://twitter.com/Uditha__Ishan -->
 [linkedin]: https://www.linkedin.com/in/udithaishan
-[Facebook]: https://www.facebook.com/IamUditha
+<!-- [Facebook]: https://www.facebook.com/IamUditha -->
 [DEV]: https://dev.to/udithaishan
