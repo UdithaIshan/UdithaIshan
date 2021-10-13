@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2021 - 11 October, 2021
+Week: 06 October, 2021 - 12 October, 2021
 
 JavaScript   27 mins         ███████████████████▓░░░░░   79.18 % 
 Properties   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.46 % 
