@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
 Java         4 hrs 58 mins   ███████████████████▒░░░░░   77.90 % 
 JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
