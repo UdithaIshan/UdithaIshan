@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
 Properties   35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
 Groovy       33 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
