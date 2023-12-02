@@ -1,9 +1,9 @@
 ### Helloo 😁✨
 
-*I'm Uditha. I'm a person who loves to make open-source projects*
+<!--*I'm Uditha. I'm a person who loves to make open-source projects*
 
 - 🔭 I’m currently working on [🛠 git-quick](https://github.com/UdithaIshan/git-quick)
-- 🌱 I’m currently learning ∞ 🧐
+- 🌱 I’m currently learning ∞ 🧐 -->
 
 <br/><br/>
 
